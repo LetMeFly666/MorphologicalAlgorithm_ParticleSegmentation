@@ -2,7 +2,7 @@
  * @Author: LetMeFly
  * @Date: 2022-06-13 15:00:00
  * @LastEditors: LetMeFly
- * @LastEditTime: 2022-06-13 15:59:40
+ * @LastEditTime: 2022-06-13 16:08:18
 -->
 # MorphologicalAlgorithm_ParticleSegmentation
 
@@ -164,5 +164,5 @@ plt.show()
 
 ![result.jpg](img/result.jpg)
 
-> 同步发文于CSDN，原创不易，转载请附上[原文链接](https://morphologicalalgorithm_particlesegmentation.letmefly.xyz)哦~
+> 同步发文于CSDN，原创不易，转载请附上[原文链接](https://maps.letmefly.xyz)哦~
 > Tisfy：[https://letmefly.blog.csdn.net/article/details/125258729](https://letmefly.blog.csdn.net/article/details/125258729)
